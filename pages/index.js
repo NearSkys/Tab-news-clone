@@ -1,5 +1,5 @@
-function home () {
-    return <h1>teste</h1>
+function Home() {
+    return <h1>Você sabia que penguins azuis gostam de maçãs vermelhas?</h1>;
 }
 
-export default home;
+export default Home;
